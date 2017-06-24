@@ -1,0 +1,31 @@
+lozztest1:
+  pageinterval: 20
+  header1: 
+	- '{icon:DIAMOND}'
+	- '{icon:EMERALD}'
+	- '{icon:GOLD_INGOT}'
+	interval: 20
+  header2:
+	- '&e{servername} &6Top &f{topnbal} &6Balances @ &f{date}'
+	interval: 100
+  detail: 
+	- '&6{lineno}: &f&l{player} &6has &a$&f{balance}' 
+	- '&6{lineno}: &f&l{player} &6has &a${balance}'
+	interval: 20
+  footer1:
+	- '&e---- Page &6{pageno} &eOf &6{totalpages} &e----'
+	interval: 100
+  footer2
+    - '&e=&6-&e=&6-&e=&6-&e=&6-&e=&6-&e=&6-&e=&6-&e=&6-&e=&6-&e=&6-&e=&6-&e=&6-&e=&6-&e=&6-&e=&6-&e=&6-&e=&6-&e=&6-&e=&6-&e=&6-&e=&6-&e=&6-&e=&6-&e='
+    interval: 100
+  footer3:
+    - '&6Enhanced&eBalTop &f(C) 2016 &1&lL&2&lO&3&l&lZ&4&lZ&c&lSoft'
+    interval: 100
+  footer4:
+    - '&e=&6-&e=&6-&e=&6-&e=&6-&e=&6-&e=&6-&e=&6-&e=&6-&e=&6-&e=&6-&e=&6-&e=&6-&e=&6-&e=&6-&e=&6-&e=&6-&e=&6-&e=&6-&e=&6-&e=&6-&e=&6-&e=&6-&e=&6-&e='
+	interval: 100
+  footer5:
+	- '{icon:DIAMOND}'
+	- '{icon:EMERALD}'
+	- '{icon:GOLD_INGOT}'
+	interval: 20

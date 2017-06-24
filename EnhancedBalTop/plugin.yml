@@ -1,0 +1,7 @@
+name: EnhancedBalTop
+main: com.lozzsoft.enhancedbaltop.EnhancedBalTop
+version: 1.6.4.0
+author: Lozz
+commands:
+   baltop:
+      description: Enhanced BalTop Command

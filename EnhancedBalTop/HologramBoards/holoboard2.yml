@@ -1,0 +1,15 @@
+holoheader:
+- '{icon:REDSTONE_BLOCK}'
+- '&c=&4-&c=&4-&c=&4-&c=&4-&c=&4-&c=&4-&c=&4-&c=&4-&c=&4-&c=&4-&c=&4-&c=&4-&c=&4-&c=&4-&c=&4-&c=&4-&c=&4-&c=&4-&c=&4-&c=&4-&c=&4-&c=&4-&c=&4-&c='
+- '&flozzboard1 - &c{servername} &f{date}'
+- '&4Players Online: &f{totalonlineplayers}&4  Players Offline: &4{totalofflineplayers}'
+- '&4Top &f{topnbal} &4Balances For Last &a{excludedays}'
+- '&c=&4-&c=&4-&c=&4-&c=&4-&c=&4-&c=&4-&c=&4-&c=&4-&c=&4-&c=&4-&c=&4-&c=&4-&c=&4-&c=&4-&c=&4-&c=&4-&c=&4-&c=&4-&c=&4-&c=&4-&c=&4-&c=&4-&c=&4-&c='
+holodetail:
+- '&4{lineno}: &f&l{player}&4 (&f{uuid}&4) - &c$&f{balance}'
+holofooter:
+- '&c---- Page &4{pageno} &cOf &4{totalpages} &c----'
+- '&c=&4-&c=&4-&c=&4-&c=&4-&c=&4-&c=&4-&c=&4-&c=&4-&c=&4-&c=&4-&c=&4-&c=&4-&c=&4-&c=&4-&c=&4-&c=&4-&c=&4-&c=&4-&c=&4-&c=&4-&c=&4-&c=&4-&c=&4-&c='
+- '&4Enhanced&cBalTop &f(C) 2016 &1&lL&2&lO&4&l&lZ&4&lZ&c&lSoft'
+- '&c=&4-&c=&4-&c=&4-&c=&4-&c=&4-&c=&4-&c=&4-&c=&4-&c=&4-&c=&4-&c=&4-&c=&4-&c=&4-&c=&4-&c=&4-&c=&4-&c=&4-&c=&4-&c=&4-&c=&4-&c=&4-&c=&4-&c=&4-&c='
+- '{icon:REDSTONE_BLOCK}'

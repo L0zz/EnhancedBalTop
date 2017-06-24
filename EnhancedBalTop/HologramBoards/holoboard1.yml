@@ -1,0 +1,14 @@
+holoheader:
+- '{icon:DIAMOND}'
+- '&b=&3-&b=&3-&b=&3-&b=&3-&b=&3-&b=&3-&b=&3-&b=&3-&b=&3-&b=&3-&b=&3-&b=&3-&b=&3-&b=&3-&b=&3-&b=&3-&b=&3-&b=&3-&b=&3-&b=&3-&b=&3-&b=&3-&b=&3-&b='
+- '&fholoboard1 - &b{servername} &f{date}'
+- '&3Top &f{topnbal} &3Balances For Last &a{excludedays}'
+- '&b=&3-&b=&3-&b=&3-&b=&3-&b=&3-&b=&3-&b=&3-&b=&3-&b=&3-&b=&3-&b=&3-&b=&3-&b=&3-&b=&3-&b=&3-&b=&3-&b=&3-&b=&3-&b=&3-&b=&3-&b=&3-&b=&3-&b=&3-&b='
+holodetail: 
+- '&3{lineno}: &f&l{player}&3 - &a$&f{balance}'
+holofooter:
+- '&b---- Page &3{pageno} &bOf &3{totalpages} &b----'
+- '&b=&3-&b=&3-&b=&3-&b=&3-&b=&3-&b=&3-&b=&3-&b=&3-&b=&3-&b=&3-&b=&3-&b=&3-&b=&3-&b=&3-&b=&3-&b=&3-&b=&3-&b=&3-&b=&3-&b=&3-&b=&3-&b=&3-&b=&3-&b='
+- '&3Enhanced&bBalTop &f(C) 2016 &1&lL&2&lO&3&l&lZ&4&lZ&c&lSoft'
+- '&b=&3-&b=&3-&b=&3-&b=&3-&b=&3-&b=&3-&b=&3-&b=&3-&b=&3-&b=&3-&b=&3-&b=&3-&b=&3-&b=&3-&b=&3-&b=&3-&b=&3-&b=&3-&b=&3-&b=&3-&b=&3-&b=&3-&b=&3-&b='
+- '{icon:DIAMOND}'

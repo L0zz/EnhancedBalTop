@@ -1,0 +1,14 @@
+holoheader:
+- '{icon:GOLDEN_APPLE}'
+- '&e=&6-&e=&6-&e=&6-&e=&6-&e=&6-&e=&6-&e=&6-&e=&6-&e=&6-&e=&6-&e=&6-&e=&6-&e=&6-&e=&6-&e=&6-&e=&6-&e=&6-&e=&6-&e=&6-&e=&6-&e=&6-&e=&6-&e=&6-&e='
+- '&e{servername} &f{date}'
+- '&6Top &f{topnbal} &6Balances For Last &a{excludedays}'
+- '&e=&6-&e=&6-&e=&6-&e=&6-&e=&6-&e=&6-&e=&6-&e=&6-&e=&6-&e=&6-&e=&6-&e=&6-&e=&6-&e=&6-&e=&6-&e=&6-&e=&6-&e=&6-&e=&6-&e=&6-&e=&6-&e=&6-&e=&6-&e='
+holodetail:
+- '&6{lineno}: &f&l{player} &6has &a$&f{balance}'
+holofooter:
+- '&e---- Page &6{pageno} &eOf &6{totalpages} &e----'
+- '&e=&6-&e=&6-&e=&6-&e=&6-&e=&6-&e=&6-&e=&6-&e=&6-&e=&6-&e=&6-&e=&6-&e=&6-&e=&6-&e=&6-&e=&6-&e=&6-&e=&6-&e=&6-&e=&6-&e=&6-&e=&6-&e=&6-&e=&6-&e='
+- '&6Enhanced&eBalTop &f(C) 2016 &1&lL&2&lO&3&l&lZ&4&lZ&c&lSoft'
+- '&e=&6-&e=&6-&e=&6-&e=&6-&e=&6-&e=&6-&e=&6-&e=&6-&e=&6-&e=&6-&e=&6-&e=&6-&e=&6-&e=&6-&e=&6-&e=&6-&e=&6-&e=&6-&e=&6-&e=&6-&e=&6-&e=&6-&e=&6-&e='
+- '{icon:GOLDEN_APPLE}'
